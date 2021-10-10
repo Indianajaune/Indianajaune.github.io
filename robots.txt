@@ -1,0 +1,94 @@
+User-Agent: Googlebot
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: MSNBot
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-agent: bingbot
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: ibm
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: Amazonbot
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: Applebot
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: robozilla
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: worm
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 1
+
+User-Agent: ia_archiver
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 5
+
+User-Agent: Voilabot
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: python
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: larbin
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 1
+
+User-Agent: auresys
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 1
+
+User-Agent: francoroute
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 1
+
+User-Agent: wanderer
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 1
+
+User-Agent: snooper
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: Baiduspider
+Disallow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 100
+
+User-Agent: Yandex
+Disallow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 100
+
+User-Agent: *
+Disallow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 10
