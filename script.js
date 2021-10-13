@@ -35,8 +35,8 @@ $(document).ready(function() {
     anim($("#bar-oracle"));
     anim($("#bar-mysql"));
     anim($("#bar-qt"));
-    anim($("#bar-jquery"));
-    anim($("#bar-dotnetcore"));
+    anim($("#bar-sw"));
+    anim($("#bar-excel"));
     anim($("#bar-ltspice"));
     anim($("#bar-autocad"));
 
