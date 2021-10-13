@@ -37,8 +37,8 @@ $(document).ready(function() {
     anim($("#bar-qt"));
     anim($("#bar-jquery"));
     anim($("#bar-dotnetcore"));
-    anim($("#bar-unity"));
-    anim($("#bar-unreal"));
+    anim($("#bar-ltspice"));
+    anim($("#bar-autocad"));
 
     // Hide or Show sections
 
