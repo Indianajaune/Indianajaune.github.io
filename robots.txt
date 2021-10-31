@@ -1,3 +1,8 @@
+User-Agent: W3C_Validator
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
 User-Agent: Googlebot
 Allow: /
 Sitemap: /sitemap.xml
@@ -24,6 +29,16 @@ Sitemap: /sitemap.xml
 Crawl-delay: 2
 
 User-Agent: Applebot
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: Twitterbot
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
+User-Agent: facebookexternalhit
 Allow: /
 Sitemap: /sitemap.xml
 Crawl-delay: 2
