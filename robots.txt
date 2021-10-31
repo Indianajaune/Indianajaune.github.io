@@ -68,6 +68,11 @@ Allow: /
 Sitemap: /sitemap.xml
 Crawl-delay: 1
 
+User-Agent: Qwantify
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 2
+
 User-Agent: wanderer
 Allow: /
 Sitemap: /sitemap.xml
@@ -78,6 +83,11 @@ Allow: /
 Sitemap: /sitemap.xml
 Crawl-delay: 2
 
+User-Agent: usasearch
+Allow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 20
+
 User-Agent: Baiduspider
 Disallow: /
 Sitemap: /sitemap.xml
@@ -87,6 +97,11 @@ User-Agent: Yandex
 Disallow: /
 Sitemap: /sitemap.xml
 Crawl-delay: 100
+
+User-Agent: israelisearch
+Disallow: /
+Sitemap: /sitemap.xml
+Crawl-delay: 20
 
 User-Agent: *
 Disallow: /

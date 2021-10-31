@@ -14,5 +14,5 @@
 /* SITE */
     Last update:2021/10/10
     Language: English / French
-    Doctype:XHTML+RDFa 1.1
+    Doctype:XHTML 1.1 plus MathML 2.0 plus SVG 1.1
     IDE: Xcode
